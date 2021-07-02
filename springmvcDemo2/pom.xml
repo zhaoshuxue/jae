@@ -13,7 +13,7 @@
         <jdk.version>1.7</jdk.version>
         <!-- spring版本号 -->
         <spring.version>4.3.18.RELEASE</spring.version>
-        <elasticsearch.version>5.6.4</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
     </properties>
 
     <dependencies>
